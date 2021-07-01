@@ -1,0 +1,9 @@
+name: CustomPlugins
+author: Wyvern
+main: com.wyvern.Fun
+api-version: 1.16
+version: 1.0
+description:
+commands:
+  fun:
+    description:
